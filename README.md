@@ -12,6 +12,6 @@ On the contrary, the true value is closer to the upper bound.
 ![image](https://github.com/HAOYUAN521/Qualifying-Exam/blob/main/Images/strict%20upper%20bound.png)
 
 
-## Code tructure
+## Code structure
  * Benchmarking data.ipynb
  * Simulation data.ipynb
