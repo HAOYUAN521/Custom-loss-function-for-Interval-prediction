@@ -13,5 +13,5 @@ On the contrary, the true value is closer to the upper bound.
 
 
 ## Code structure
- * Benchmarking data.ipynb
- * Simulation data.ipynb
+ * Benchmarking.py
+ * Simulation.py
