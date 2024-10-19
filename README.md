@@ -8,7 +8,7 @@ demands. Extensive experiments on ten public datasets across various domains rev
 
 ## Getting Started
 ### Data load
-The ten benchmarking dataset that were used in this paper are from the following three websites:  
+The ten benchmarking dataset that were used in this paper can be found from the following three websites:  
 https://www.kaggle.com  
 https://archive.ics.uci.edu  
 https://www.openml.org  
