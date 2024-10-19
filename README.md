@@ -9,7 +9,7 @@ demands. Extensive experiments on ten public datasets across various domains rev
 For the same set of data, we give completely opposite weights to the upper and lower bounds. When the actual problem requires us to be more strict in estimating the lower bound, the weight given to the lower bound should be increased. In this case, the true value is closer to the lower bound.
 ![image](https://github.com/HAOYUAN521/Qualifying-Exam/blob/main/Images/strict%20lower%20bound.png)
 On the contrary, the true value is closer to the upper bound.
-![image](https://github.com/HAOYUAN521/Qualifying-Exam/blob/main/Images/strict%20upper%20bound.png)
+![image]([https://github.com/HAOYUAN521/Qualifying-Exam/blob/main/Images/strict%20upper%20bound.png](https://github.com/HAOYUAN521/Custom-loss-function-for-Interval-prediction/blob/main/Images/strict%20upper%20bound.png))
 
 
 ## Code structure
